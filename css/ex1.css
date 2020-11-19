@@ -1,5 +1,5 @@
 h1{
-    color:#ffff00;
+    color:#ff2345;
     font-size:50px;
     font-wight:bold;
     font-family-"Impact"
@@ -12,7 +12,7 @@ h2{
     font-wight:bold;
     font-family-"Impact"
     text-align:center;
-    background-color:#ff3333;
+    background-color:#ff6400;
     
     
 }
@@ -33,13 +33,18 @@ p{
 }
 
 body{
-    background-image:url(../images/img_df50e9b9581e2e4c9bc9bed6cca0ce18380281.jpg)
+    background-image:url(../images/photo0000-0611.jpg)
 }
 
 tr{
-    color:#fff444;
+    color:#ffffff;
     font-size:20px;
     font-wight:bold;
     font-family-"Impact"
     text-align:center;
+}
+
+hr{
+    
+    color:red;
 }
